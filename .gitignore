@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+
+# Misc
+dist/
+coverage/
+
+# Lockfiles (keep committed; ignored here only if you choose)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
