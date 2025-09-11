@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const src = path.join(process.cwd(), 'locales', 'en.json');
-const dst = path.join(process.cwd(), 'locales', 'en.pseudo.json');
+const dst = path.join(process.cwd(), 'locales', 'zz-pseudo.json');
 
 function pseudoize(value) {
   if (typeof value === 'string') return `⟦${value}⟧`
