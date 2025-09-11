@@ -24,6 +24,7 @@ pnpm-debug.log*
 # Misc
 dist/
 coverage/
+.lingopilot/
 
 # Lockfiles (keep committed; ignored here only if you choose)
 # package-lock.json
