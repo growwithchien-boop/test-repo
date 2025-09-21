@@ -1,9 +1,0 @@
-- name: i18n
-  color: "0e8a16"
-  description: Localization-related changes
-- name: pseudo-loc
-  color: "5319e7"
-  description: Pseudolocalization artifacts
-- name: automated
-  color: "c2e0c6"
-  description: Opened by CI
